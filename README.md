@@ -19,4 +19,4 @@ A landing page for a fictional coffee brand called **BrewHaven**.
 
 ## Author
 
-Your Name
+Boyan Sabev
